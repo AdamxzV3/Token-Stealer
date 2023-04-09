@@ -12,7 +12,7 @@
 ## :inbox_tray: Installation
 
 1. Download this repo or clone it
-2. Install the required packages: `pip install -r requirements.txt`
+2. Install the required packages: `By running Install.bat`
 
 
 ## :keyboard: Usage
