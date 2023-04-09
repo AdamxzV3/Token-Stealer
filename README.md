@@ -12,13 +12,16 @@
 ## :inbox_tray: Installation
 
 1. Download this repo or clone it
-2. Install the required packages: `By running Install.bat`
+2. Install the required package By running: ` Installer.bat`
 
 
 ## :keyboard: Usage
 
 - Type `!Login` in a channel to prompt users to provide their Rblxflip access token.
 - Type `!Token` in a channel to display information about what an access token is and how to get it.
+
+
+## :rocket: Photos
 
 ![Alt Text](1.png)
 ![Alt Text](2.png)
