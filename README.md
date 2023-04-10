@@ -7,6 +7,7 @@
 - It logs every chat with the person in the dms ex. i dmed to the person Hello, the log will be sented to the server
 - Add anything you want, i premade the stealer so when persons provide the token it will be sented to you
 - Add your bot token and paste it to the last line, and your channel id
+- Enjoy!
 
 
 ## :inbox_tray: Installation
